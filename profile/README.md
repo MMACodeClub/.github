@@ -51,9 +51,7 @@ Projekte, die nach der Abgabe weiter funktionieren.
 
 ## 04 · Stack
 
-`Node.js` · `TypeScript` · `Vanilla JS` · `Express` · `Vue` · `Three.js`
-`MongoDB` · `MariaDB` · `SQLite`
-`Coolify` · `Hetzner` · `Hostpoint`
+`Node.js` · `TypeScript` · `Vanilla JS` · `Express` · `Vue` · `Three.js` . `MongoDB` · `MariaDB` · `SQLite` . `Coolify` · `Hetzner` · `Hostpoint`
 
 ---
 
